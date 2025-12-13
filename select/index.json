@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "命の行方",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2025-12-13T12:47:02.006536Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "命の行方",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/01_命の行方_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "命の行方",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/02_命の行方_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "命の行方 (Inst.)",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/03_命の行方_(Inst.)_DUSTCELL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "命の行方",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_命の行方_DUSTCELL.txt"
+    }
+  ]
+}
